@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @monkeybussiness
+- 👋 Hi, my name is Nikita Suslov
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Science projects
