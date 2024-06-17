@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Nikita Suslov
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on JS projects
 - 📫 How to reach me nikitasuslov666@gmail.com
 - :electron: My LeetCode https://leetcode.com/monkeybussiness/
 <!---
